@@ -16,21 +16,20 @@ This repository includes the documentation to publish species records with IPT, 
 ## Deliverables
 
 ### Deliverable 1
-Prepare the data in the Plinian Core standard
+Prepare the data in the Plinian Core standard\
 **Description**: Generate test data files in DwCA format using PliC extensions\
 **Deliverable**: Datasets\
 **Repositories**:
 https://www.sibbr.gov.br/page/cesp.html?lang=pt_BR#s
-https://github.com/AtlasBiodiversidadCostaRica
+https://github.com/AtlasBiodiversidadCostaRica/doc-bie-plic/data
                      
 ### Deliverable 2
 Presentation of the Plinan Core extension at the TDWG event\
 **Description**: Formalization of the PliC extension in the registered GBIF extensions in the TDWG event\
 **Deliverable**: Video and powerpoint presentation\
 **Repositories**:
-https://www.tdwg.org/conferences/2022/
 https://www.sibbr.gov.br/page/cesp.html?lang=pt_BR#s
-https://www.youtube.com/user/SiBBr
+https://www.youtube.com/watch?v=DcnCLWVXaBU&t=141s
 
 ### Deliverable 3
 Extend the functionality of the Indexer (bie-index)\
@@ -38,7 +37,7 @@ Extend the functionality of the Indexer (bie-index)\
 **Deliverable**: development code\
 **Repositories**:
 https://www.sibbr.gov.br/page/cesp.html?lang=pt_BR#s
-https://github.com/AtlasBiodiversidadCostaRica
+https://github.com/AtlasBiodiversidadCostaRica/bie-index
 
 
 ### Deliverable 4
@@ -47,7 +46,7 @@ Adapt functionality in the visualization (ala-bie)\
 **Deliverable**: development code\
 **Repositories**:
 https://www.sibbr.gov.br/page/cesp.html?lang=pt_BR#s
-https://github.com/AtlasBiodiversidadCostaRica
+https://github.com/AtlasBiodiversidadCostaRica/ala-bie
 
 
 ### Deliverable 5
@@ -56,4 +55,4 @@ Create documentation for users throughout the process\
 **Deliverable**: documentation\
 **Repositories**:
 https://www.sibbr.gov.br/page/cesp.html?lang=pt_BR#s
-https://github.com/AtlasBiodiversidadCostaRica
+https://github.com/AtlasBiodiversidadCostaRica/doc-bie-plic
